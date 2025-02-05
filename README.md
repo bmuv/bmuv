@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on synthesizing internal metrics and external market trends at Pennybacker Capital to enhance investment profitability through predictive modeling.<br><br>🌟 I’m looking to collaborate on advanced machine learning projects and data science initiatives that drive meaningful insights and impactful business outcomes.<br><br>📚 I'm currently learning: Advanced applications of Large Language Models and the optimization of vector databases for high-dimensional data management.<br><br>🔎 Ask me about deep learning applications in speech recognition and face verification.<br><br>🌟 Fun fact: My all-time favorite sports anime is "Kuroko's Basketball."
+🚀 I’m currently working on building ETL pipelines for a small indoor plants company.<br><br>🌟 I’m looking to collaborate on advanced machine learning projects and data science initiatives that drive meaningful insights and impactful business outcomes.<br><br>📚 I'm currently learning how to build and deploy AI agents.<br><br>🌟 Fun fact: My all-time favorite sports anime is "Kuroko's Basketball."
 
 
 ## 🌐 Socials:
